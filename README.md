@@ -35,7 +35,7 @@ The data is in the **data** folder
 
 * **utility.py** The script contains helpful functions used by the main code.
 
-* **GAN_RL.ipynb** The Jupyter Notebook contains the code for training a GAN which can generate emotion data with same distribution as obtained from the emotion research lab. This GAN is then used to train a RL agent to detect if the emotions represent a cognitive dissonance state or consonance state.
+* **GAN_RL_agent.ipynb** The Jupyter Notebook contains the code for training a GAN which can generate emotion data with same distribution as obtained from the emotion research lab. This GAN is then used to train a RL agent to detect if the emotions represent a cognitive dissonance state or consonance state.
 
 
 ## Citation
