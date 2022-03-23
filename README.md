@@ -1,8 +1,8 @@
 # Can Artificial Intelligence Identify Cognitive Dissonance?
-Ajit Jaokar^1, Rachel Sava^2, Amita Kapoor^3, Claudio Feijoo^1
-1^UPM
-2^University College London, United Kingdom
-3^SRCASW, University of Delhi, India
+Ajit Jaokar<sup>1</sup>, Rachel Sava<sup>2</sup>, Amita Kapoor<sup>3</sup>, Claudio Feijoo<sup>1</sup>
+<sup>1</sup>UPM
+<sup>2</sup>University College London, United Kingdom
+<sup>3</sup>SRCASW, University of Delhi, India
 
 
 
