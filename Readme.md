@@ -46,7 +46,7 @@ The repo has two folders.
 ## How to run
 
 1. First clone the repo using  `git clone https://github.com/AI-Engg/CognitiveDissonance.git`
-2. Create a new virtual environment using `virtualven cd` 
+2. Create a new virtual environment using `virtualenv cd` 
 3. Activate the new environment `source cd/bin/activate`
 4. Change into the folder where the repo is `cd CognitiveDissonance`
 4. Install the required dependencies using `pip install -r requirements.txt`
