@@ -41,6 +41,7 @@ The repo has two folders.
 * scikit_learn==1.1.1
 * seaborn==0.11.2
 * tqdm==4.64.0
+* python 3.7.9
 
 ## How to run
 
